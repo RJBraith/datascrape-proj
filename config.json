@@ -1,0 +1,8 @@
+{
+    "company": "GME",
+    "params": {
+        "range": "5y",
+        "interval": "1d",
+        "events": "history"
+    }
+}
