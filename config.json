@@ -1,5 +1,6 @@
 {
     "company": "GME",
+    "lags": 100,
     "params": {
         "range": "5y",
         "interval": "1d",
